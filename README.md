@@ -36,7 +36,7 @@ No build tools or dependencies required. Just open the project in a browser:
 2. Open `index.html` in any modern web browser
 
 ```bash
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/Ashu67-debug/calculator.git
 cd calculator
 open index.html   # macOS
 # or
