@@ -2,8 +2,6 @@
 
 A clean, minimal calculator web app built with vanilla HTML, CSS, and JavaScript.
 
-![Calculator Preview](Calculator.png)
-
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
