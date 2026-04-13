@@ -2,7 +2,7 @@
 
 A clean, minimal calculator web app built with vanilla HTML, CSS, and JavaScript.
 
-![Calculator Preview](preview.png)
+![Calculator Preview](Calculator.png)
 
 ## Features
 
